@@ -1,5 +1,6 @@
 # Adidas US Sales Analysis Dashboard 📊
-#📌 Overview
+
+# 📌 Overview
  The Adidas US Sales Analysis Dashboard provides valuable insights into sales performance, customer trends, and key business metrics. This interactive Power BI dashboard helps stakeholders 
  make data-driven decisions by analyzing sales data across different categories, time periods, and regions.
 
@@ -14,7 +15,8 @@ Time-based Data: Year, Quarter, Month
 ✔ Regional Insights – Identify top-performing states and cities for Adidas sales.
 ✔ Category & Product Trends – Analyze sales by product category, subcategory, and top-selling products.
 ✔ Customer Demographics – Understand customer preferences based on location and gender.
-✔ Discount & Profit Impact – Evaluate how discounts affect re
+✔ Discount & Profit Impact – Evaluate how discounts affect revenue and profitability.
+
 
 ![Screenshot 2025-03-13 135656](https://github.com/user-attachments/assets/093ed6fc-a01e-4fda-bacd-8e4519dbe331)
 venue and profitability.
